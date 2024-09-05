@@ -69,9 +69,14 @@
         android:layout_width="358dp"
         android:layout_height="81dp"
         android:layout_marginHorizontal="30dp"
+        android:layout_marginStart="23dp"
         android:layout_marginTop="80dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="1dp"
         android:orientation="horizontal"
         android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/main_listview"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/main_inputlayout">
 
