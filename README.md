@@ -43,16 +43,19 @@
     app:layout_constraintVertical_bias="0.107": Вертикальное смещение компонента относительно родительского контейнера.
 4. Button (main_button)
     Тип: Кнопка.
-5. EditText
+   Описание: Кнопка ввода.
+6. EditText
     Тип: Поле ввода текста.
-6. ListView
+7. ListView
     Тип: Список элементов.
-7. LinearLayout (add_btnslayout)
+8. LinearLayout (add_btnslayout)
     Тип: Контейнер макета с горизонтальной ориентацией.
-8. Button (ok_btn)
+9. Button (ok_btn)
     Тип: Кнопка.
-9. Button (cnc_btn)
+   Описание: Кнопка ОК.
+10. Button (cnc_btn)
     Тип: Кнопка.
+   Описание: Кнопка Cancel.
 </pre>
 
 <h2>Файл MainActivity.java</h2>
